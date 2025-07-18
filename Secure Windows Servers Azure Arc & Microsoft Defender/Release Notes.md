@@ -21,6 +21,44 @@ This repository contains detailed notes about the latest updates and modificatio
 - Changes to screenshots and visuals used in the lab
 
 # Release Notes
+
+<details>
+  <summary>2025-07-18</summary>
+
+### [Release Date: 2025-07-18]
+
+- **Change**: Minor UI updates to enhance user experience).
+- **Testing Date**: 2025-07-18
+- **Notes**: NA
+
+## Infrastructure Changes
+
+- **Change**: Updated the Lab UI and screenshots for improved understanding of the lab environment.
+
+
+
+## Content Changes
+
+NA
+
+
+## Screenshot Updates
+
+- **Change**: Updated the screenshot for Lab UI.
+- **Details**: New screenshot reflects the changes in the user interface after the recent UI update.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-18
+- **Tested Features**: Azure Arc, Microsoft Defender for Cloud, and Microsoft Sentinel.
+- **Issues Found**: NA
+---
+
+For any further details or inquiries, feel free to reach out to the MS-Innovation development team.
+
+---
+</details>
+
 <details>
   <summary>2025-06-09</summary>
 
